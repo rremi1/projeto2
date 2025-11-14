@@ -1,11 +1,11 @@
 body {
-    background-color: #cacae4;
+    background-color: #c2c2d7;
 }
 
 .cabeçalho {
     margin-bottom: 0px;
     background-color:#74749a;
-    color: black;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
