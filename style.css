@@ -5,4 +5,9 @@ body {
 .cabeçalho {
     margin-bottom: 0px;
     background-color:#74749a;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
