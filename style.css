@@ -11,3 +11,7 @@ body {
     align-items: center;
     padding: 24px 0;
 }
+
+.cabeçalho-título {
+    font-size: 54px;
+}
